@@ -1,0 +1,12 @@
+.bg-blue {
+  background-color: #c4e2ff;
+}
+.border-bottom-1 {
+  border-bottom: 1px solid rgba(41, 41, 41, 41);
+}
+body{
+    font-family: 'PT Serif', serif;
+}
+.bg-color-light {
+    background-color: white;
+}

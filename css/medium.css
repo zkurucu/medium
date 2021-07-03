@@ -4,9 +4,23 @@
 .border-bottom-1 {
   border-bottom: 1px solid rgba(41, 41, 41, 41);
 }
-body{
-    font-family: 'PT Serif', serif;
+body {
+  font-family: "PT Serif", serif;
 }
 .bg-color-light {
-    background-color: white;
+  background-color: white;
+}
+.aside-buttons > li {
+  margin-bottom: 10px;
+}
+.bg-gri {
+  background-color: #f2f2f2;
+}
+.number-design {
+  font-weight: bold;
+  color: rgba(230, 230, 230, 1);
+  letter-spacing: 0;
+  line-height: 36px;
+  font-size: 30px;
+  font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
